@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am constantly learning and improving my skills as a fullstack developer, always positive and enthusiastic about learning new things and facing new challenges that make me grow and be able to contribute to my team in the best way possible.
+🎓 I am constantly learning and improving my skills as a fullstack developer, always positive and enthusiastic about learning new things and facing new challenges that make me grow and be able to contribute to my team in the best way possible.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
